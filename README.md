@@ -11,9 +11,7 @@ Firmware Updates
 -----------------
 As of 02/09/2023 the Deb file is the latest version 1.2 for the neptune 4 Pro.
 
-Ways to update --
-
-# Use included USB Drive.
+Use included USB Drive.
 create a folder on the root of the device called "ELEGOO_UPDATE_DIR"
 add the ELEGOO_APP.deb to the folder.
 Put the USB back into the machine go to about on the settings page and click the update button.
