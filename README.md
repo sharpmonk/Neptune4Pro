@@ -1,12 +1,10 @@
 # Neptune4Pro
-Things to help
------------------
 
 Original Files
 -----------------
 The Config files i have uploaded are the original configs for the Neptune 4 Pro.
 These are to help anyone who needs to go back to default or who as messed up there configs some how :)
------------------
+
 
 
 Firmware Updates
