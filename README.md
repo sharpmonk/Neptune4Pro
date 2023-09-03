@@ -25,3 +25,8 @@ try this.
 SSH into the printer.
 cd ~/moonraker/scrirpts/
 sudo sh data-path-fix.sh
+
+# Orca Slicer Profile
+0.20mm @Neptune 4.json
+Elegoo Neptune 4.json
+Generic PLA.json
