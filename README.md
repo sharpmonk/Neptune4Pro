@@ -40,3 +40,8 @@ This will fix your missing files :)
 0.20mm @Neptune 4.json
 Elegoo Neptune 4.json
 Generic PLA.json
+
+# Stepper Current
+It seems the updates also changed the stepper current of X and Y to 1.2
+After a few prints i started to recive over temp error on the X.
+Changing the Current back down to 0.8 Fixed this issue.
